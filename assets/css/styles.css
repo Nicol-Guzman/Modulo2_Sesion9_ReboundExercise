@@ -1,0 +1,22 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#text1 {
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+#text2 {
+    background-color: tomato;
+    max-width: 40%;
+    display: none;
+}
+
+#pacMan {
+    cursor: pointer;
+}
+
+#text3 {
+    cursor: pointer;
+}
